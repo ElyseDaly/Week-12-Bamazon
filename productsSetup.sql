@@ -12,7 +12,6 @@ KEY VALUE (item_id)
 );
 
 
-
 INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES ('Swagtron T6 Off-Road Hoverboard (Desert Camouflage)', 'Electronics', 500.00, 25);
 
@@ -20,10 +19,10 @@ INSERT INTO Products (product_name, department_name, price, stock_quantity)
 VALUES ('Jumbo Rice Krispy Treat', 'Food and Drink', 5.00, 2000);
 
 INSERT INTO Products (product_name, department_name, price, stock_quantity)
-VALUES ('Crocs', 'Apparel', 14.99, 10000);
+VALUES ('Crocs Unisex Classic Clog', 'Apparel', 14.99, 10000);
 
 INSERT INTO Products (product_name, department_name, price, stock_quantity)
-VALUES ('Whoopi Cushion', 'Toys and Games', 2.00, 100);
+VALUES ('Loftus Auto-Inflate Whoopee Cushion', 'Toys and Games', 2.00, 100);
 
 INSERT INTO Products (product_name, department_name, price, stock_quantity)
 VALUES ('Ciroc Vodka', 'Food and Drink', 41.00, 200);
@@ -38,7 +37,7 @@ INSERT INTO Products (product_name, department_name, price, stock_quantity)
 VALUES ('Star Legacy 18 Gauge Steel White Embrace Casket', 'Furniture', 1362.50, 1);
 
 INSERT INTO Products (product_name, department_name, price, stock_quantity)
-VALUES ('Nostalgia HDT600RetroRed Pup-Up Hot Dog Toaster', 'Appliances', 19.50, 30);
+VALUES ('Nostalgia HDT600RetroRed Pop-Up Hot Dog Toaster', 'Appliances', 19.50, 30);
 
 INSERT INTO Products (product_name, department_name, price, stock_quantity)
 VALUES ('Jackalope Wall Mount (Rabbit With Antlers)', 'Sports', 120.00, 40);
