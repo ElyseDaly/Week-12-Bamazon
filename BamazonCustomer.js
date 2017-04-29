@@ -69,7 +69,7 @@ connection.connect(function(err) {
           				item_id: chosenItem.item_id
         			}], function(error) {
           				if (error) throw err;
-          				console.log("Stock Updated. There are now " + chosenItem.stock_quantity + " " + chosenItem.product_name + "'s available");
+          				console.log("Stock Updated");
         			});
       				//calculate and tell user their total cost
       				var totalCost = (answer.units*chosenItem.price);
